@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wall -Wextra -g -rdynamic CMakeFiles/ECO.dir/main.cpp.o CMakeFiles/ECO.dir/Lib/9DInterp.cpp.o -o ECO 
